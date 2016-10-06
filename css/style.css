@@ -1,0 +1,6 @@
+html .container, body .container {
+  margin-top: 20px; }
+html input:first-child, body input:first-child {
+  margin-bottom: 10px; }
+
+/*# sourceMappingURL=style.css.map */
